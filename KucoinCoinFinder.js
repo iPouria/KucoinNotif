@@ -11,7 +11,7 @@ const SPIKE_RATIO = 2;
 
 const EMAIL_FROM = 'puriyasadat@gmail.com';
 const EMAIL_PASS = 'ozrq fpiy zsgw fybw';
-const EMAIL_TO = 'sadat.pouria@gmail.com';
+const EMAIL_TO = 'NotifKucoin@gmail.com';
 
 const transporter = nodemailer.createTransport({
   service: 'gmail',
